@@ -50,3 +50,5 @@ viz.enter()
         .attr("somex", function(d){ return x(d.gpa0) })
         .attr("somey", function(d){ return y(d.gpa1) })
 ```
+
+[https://www.d3indepth.com/introduction/](https://www.d3indepth.com/introduction/)
