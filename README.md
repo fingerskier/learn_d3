@@ -52,3 +52,19 @@ viz.enter()
 ```
 
 [https://www.d3indepth.com/introduction/](https://www.d3indepth.com/introduction/)
+
+* Layouts
+
+* Transitions
+    .merge().transition().duration()
+
+* Voronoi
+    .voronoi().x().y().extent()
+
+* UI
+    .select()
+    .style()
+    .classed()
+
+
+[https://www.dashingd3js.com/lessons/d3-and-html-forms](https://www.dashingd3js.com/lessons/d3-and-html-forms)
